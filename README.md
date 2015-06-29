@@ -1,0 +1,2 @@
+# vagrant_centos_base
+Vagrantで環境を作成する場合のVagrantファイルを配置
